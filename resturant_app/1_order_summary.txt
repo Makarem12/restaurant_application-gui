@@ -1,0 +1,8 @@
+Pizza quantity: 1
+Pizza size: Small
+Burger quantity: 2
+Burger size: Big
+Soft drinks quantity: 1
+Order type: Dine-In
+Extra Cheese: Yes
+Extra Ketchup: No
